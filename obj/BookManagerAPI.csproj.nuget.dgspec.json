@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Chamodi Liyanage\\BookManagerAPI\\BookManagerAPI.csproj": {}
+    "C:\\Users\\Chamodi Liyanage\\Desktop\\Book Manager app - Chamodi Liyanage\\BookManagerAPI\\BookManagerAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Chamodi Liyanage\\BookManagerAPI\\BookManagerAPI.csproj": {
+    "C:\\Users\\Chamodi Liyanage\\Desktop\\Book Manager app - Chamodi Liyanage\\BookManagerAPI\\BookManagerAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Chamodi Liyanage\\BookManagerAPI\\BookManagerAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Chamodi Liyanage\\Desktop\\Book Manager app - Chamodi Liyanage\\BookManagerAPI\\BookManagerAPI.csproj",
         "projectName": "BookManagerAPI",
-        "projectPath": "C:\\Users\\Chamodi Liyanage\\BookManagerAPI\\BookManagerAPI.csproj",
+        "projectPath": "C:\\Users\\Chamodi Liyanage\\Desktop\\Book Manager app - Chamodi Liyanage\\BookManagerAPI\\BookManagerAPI.csproj",
         "packagesPath": "C:\\Users\\Chamodi Liyanage\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Chamodi Liyanage\\BookManagerAPI\\obj\\",
+        "outputPath": "C:\\Users\\Chamodi Liyanage\\Desktop\\Book Manager app - Chamodi Liyanage\\BookManagerAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
